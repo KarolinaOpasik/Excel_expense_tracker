@@ -1,14 +1,17 @@
 # Expense tracker
-I like to keep a close eye on my finances, so I created this spreadsheet to provide an up-to-date and easily accessible overview of my budget.
+I wanted to practice my Excel skills in a practical way. Since I like to keep a close eye on my finances, I decided to create this [expense tracker](https://1drv.ms/x/c/a5f37b09cdf968da/EU5vcOz3G9ROmWwCj9yigJ4B9D_136HDapuHRZfRS_ho3Q) which provides me an up-to-date and easily accessible overview of my budget.
+
 ### Data
 The spreadsheet includes a worksheet with a table for storing new transactions. Sample data is provided to illustrate the project.
 
 ### Dashboard
 Since this tracker was created for personal use, I tailored it to my specific needs. The dashboard provides information on:
-- total balance, income, and expenses, accompanied by a pie chart illustrating the percentage breakdown between income and spending
-- savings rate
-- spending by category over different months
-- monthly spending breakdown by category. 
+- Total balance, income, and expenses, accompanied by a pie chart illustrating the percentage breakdown between income and spending
+- Savings rate
+- Spending by category over different months
+- Monthly spending breakdown by category
+
+![image](https://github.com/KarolinaOpasik/Excel_expense_tracker/assets/146082124/8bd06a5a-b515-4c47-93fe-1d2fe78bedfc)
 
 ### Tools
 Key Excel features utilized:
@@ -17,5 +20,3 @@ Key Excel features utilized:
 - Multiple dependent drop-down lists
 - Macro for adding new transactions and refreshing data
 - VBA code incorporating a date picker (sourced from an online tutorial)
-
-![image](https://github.com/KarolinaOpasik/Excel_expense_tracker/assets/146082124/860e095f-9030-4f57-ae7b-33cf76d77f82)
