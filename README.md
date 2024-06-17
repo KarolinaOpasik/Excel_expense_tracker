@@ -1,5 +1,5 @@
 # Expense tracker
-I wanted to practice my Excel skills in a practical way. Since I like to keep a close eye on my finances, I decided to create this [expense tracker](https://1drv.ms/x/c/a5f37b09cdf968da/EQ_2exIIDkxGq0l32WNySDUBFQAvK6LYHzDmGi9rmrLq4g?e=8KZHYB) which provides me an up-to-date and easily accessible overview of my budget.
+I wanted to practice my Excel skills in a practical way. Since I like to keep a close eye on my finances, I decided to create this expense tracker which provides me an up-to-date and easily accessible overview of my budget.
 
 ### Data
 The spreadsheet includes a worksheet with a table for storing new transactions. Sample data is provided to illustrate the project.
